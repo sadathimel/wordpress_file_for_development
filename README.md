@@ -4,6 +4,6 @@
 
 # https://github.com/sadathimel/wordpress_file_for_development/blob/main/enq-css.php
 
-#Action Hook
+# Action Hook
 
 after_setup_theme();

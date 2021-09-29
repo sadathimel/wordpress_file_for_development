@@ -4,6 +4,8 @@
 https://github.com/sadathimel/wordpress_file_for_development/blob/main/enq-css.php
 
 নিচের কোডটি ,আমরা যখন Js ফাইল্কে  enqueue করার দরকার হবে এই ফিলেটি  Js ফোল্ডারে  নিয়ে terminal গিয়ে রান করলে,ফাইল  গুলা একসাথে  দিয়ে  দিবে ।
+
+https://github.com/sadathimel/wordpress_file_for_development/blob/main/enq-js.php
 # Action Hook
 
 add_action('after_setup_theme','function');
